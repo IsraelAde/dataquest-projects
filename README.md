@@ -30,3 +30,7 @@ Use of matplotlib to explore gender gap in college degrees using effective data 
 ### Project 7: [Analyzing NYC High School Data](https://github.com/IsraelAde/dataquest-projects/blob/add-projects/Project%207%20-%20Analyzing%20NYC%20High%20School%20Data/Analyzing%20NYC%20High%20School%20Data.ipynb)
 
 Use of pandas library in the combination of various datasets into a single, clean pandas dataframe. Followed by the exploration and analysis of this new dataframe.
+
+### PROJECT 8 : [Star Wars Survey](https://github.com/IsraelAde/dataquest-projects/blob/add-projects/Project%208%20-%20Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb)
+
+This project is focused primarily on the cleaning of data to enable thte data set to be used in analysis.
