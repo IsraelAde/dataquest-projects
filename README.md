@@ -1,6 +1,6 @@
-# dataquest-projects
-This repository is a collection of my projects from dataquest.io.
-The projects contain comments showing my thought process as I progressed through each project.
+# Dataquest Projects
+This repository is a collection of my projects from [dataquest.io](https://www.dataquest.io).
+These projects contain comments showing my thought process as I progressed through them.
 
 
 ### Project 1: [Exploring U.S. Births](https://github.com/IsraelAde/dataquest-projects/blob/add-projects/Project%201%20-%20Exploring%20US%20Birth%20Rates/Explore%20U.S.%20Births.ipynb)
@@ -36,3 +36,5 @@ Use of pandas library in the combination of various datasets into a single, clea
 This project is focused primarily on the cleaning of data to enable thte data set to be used in analysis.
 
 ### Project 9 : [Working with Data Downloads](https://github.com/IsraelAde/dataquest-projects/tree/add-projects/Project%209%20-%20Working%20with%20Data%20Downloads)
+
+This project is focused around the manipulation of files using the command line.
