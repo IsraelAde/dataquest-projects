@@ -34,3 +34,5 @@ Use of pandas library in the combination of various datasets into a single, clea
 ### PROJECT 8 : [Star Wars Survey](https://github.com/IsraelAde/dataquest-projects/blob/add-projects/Project%208%20-%20Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb)
 
 This project is focused primarily on the cleaning of data to enable thte data set to be used in analysis.
+
+### Project 9 : [Working with Data Downloads](https://github.com/IsraelAde/dataquest-projects/tree/add-projects/Project%209%20-%20Working%20with%20Data%20Downloads)
