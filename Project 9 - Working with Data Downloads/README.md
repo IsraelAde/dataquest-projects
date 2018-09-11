@@ -1,6 +1,6 @@
 # Working with Data Downloads
 
-In this project, we'll be working with an education data set in ZIP format. The data set we'll work with is called the Civil Rights Data Collection. It contains information on educational achievement and opportunities in the U.S., broken down by race and school. Each row represents a school, while each column records an indicator of academic achievement.
+In this project, we'll be working with an education data set in ZIP format. The data set we'll work with is the Civil Rights Data Collection. It contains information on educational achievement and opportunities in the U.S. broken down by race and school. Each row represents a school, while each column records an indicator of academic achievement.
 
 This folder contains files created/used for the 'Working with Data Downloads' project at [www.dataquest.io](https://www.dataquest.io/). This readme contain my solutions done on the command line.
 
