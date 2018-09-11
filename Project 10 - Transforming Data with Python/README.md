@@ -6,21 +6,21 @@ This folder contains files created/used for the 'Transforming Data with Python' 
 
 #### hn_stories.csv
 
-  The csv file we're working with
+    The csv file we're working with
   
 #### read.py
 
-  This script contains the function to read the csv and assign it to a dataframe along with its column names
+    This script contains the function to read the csv and assign it to a dataframe along with its column names
 
 #### count.py
 
-  This script seperates each word in the 'headlines' column of the data and prints the 100 most common words
+    This script seperates each word in the 'headlines' column of the data and prints the 100 most common words
 
 #### domains.py
 
-  This script prints the 100 most submitted domains
+    This script prints the 100 most submitted domains
   
 #### times.py
 
-  This script returns the number of sumbissions that occur over each hour
+    This script returns the number of sumbissions that occur over each hour
   
