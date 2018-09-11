@@ -38,3 +38,9 @@ This project is focused primarily on the cleaning of data to enable thte data se
 ### Project 9 : [Working with Data Downloads](https://github.com/IsraelAde/dataquest-projects/tree/add-projects/Project%209%20-%20Working%20with%20Data%20Downloads)
 
 This project is focused around the manipulation of files using the command line.
+
+### Project 10 : [Transforming Data with Python](https://github.com/IsraelAde/dataquest-projects/tree/add-projects/Project%2010%20-%20Transforming%20Data%20with%20Python)
+
+The focus of this project is to write scripts that import functions from other python files and then run them on the command line.
+
+
