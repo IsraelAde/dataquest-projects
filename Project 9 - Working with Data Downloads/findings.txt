@@ -1,0 +1,6 @@
+From looking through the data we can see that there is significantly more magnet school students than there are juvenille school students.
+
+Creating a pivot tables show us that there is a pretty close split between the number of male and female students in magnet schools.
+However this is not observed in juvenille school where there are 427(~85%) male students.
+
+From looking at the race/gender demographics of the students, we can see there is significantly less white students enrolled in school(~24% white females, ~26% white males) compared to the demographics of this race observed in the "Demography of the United States" Wikipedia page where white individuals make up 62% of the population.
