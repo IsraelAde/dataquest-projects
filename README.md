@@ -43,4 +43,6 @@ This project is focused around the manipulation of files using the command line.
 
 The focus of this project is to write scripts that import functions from other python files and then run them on the command line.
 
+### Project 11: [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/IsraelAde/dataquest-projects/tree/master/Project%2011%20-%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb)
 
+This project involved the use of SQLite to explore, analyse and visualise the data from the CIA World Factbook.
